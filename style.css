@@ -49,7 +49,7 @@ main {
 
 .mensaje {
     background: white;
-    background-image: url("../Muneco.png");
+    background-image: url("img/Muneco.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain; 
