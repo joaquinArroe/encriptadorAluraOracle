@@ -93,6 +93,10 @@ main {
     font-size: 56%;
 }
 
+.cambiodetexto{
+    font-size: 90%;
+}
+
 @media (max-width: 480px) {
     .logo {
         width: 15%; 
